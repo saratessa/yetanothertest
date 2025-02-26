@@ -35,19 +35,19 @@
   },
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "Math Pinpoint Correlation Analysis",
+    "description": "The correlation matrix provides insights into the relationships between different mathematical skills by measuring how strongly they are associated with each other. These relationships are quantified on a scale from -1 to 1, where 1 indicates a perfect positive relationship (as one skill increases, the other increases proportionally), 0 indicates no relationship between skills, and -1 indicates a perfect negative relationship (as one skill increases, the other decreases proportionally).",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Saratessa Palos",
+        "url": {}
       }
     ],
     "date": "2025-02-25",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\n\n\n\n\n\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2025-02-25T11:18:43-08:00",
-    "input_file": {}
+    "last_modified": "2025-02-26T14:05:43-08:00",
+    "input_file": "welcome.knit.md"
   }
 ]
