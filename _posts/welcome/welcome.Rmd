@@ -1,13 +1,13 @@
 ---
-title: "Welcome to My Blog"
+title: "Math Pinpoint Correlation Analysis"
 description: |
   Welcome to our new blog, My Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Saratessa Palos 
+    url: 
+    affiliation: University of Oregon, FIT Learning 
+    affiliation_url: 
 date: 02-25-2025
 output:
   distill::distill_article:
@@ -22,5 +22,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+```{r}
+library(tidyverse)
+library(readxl)
+library(janitor)
+library(here)
+```
+```{r}
+
+```
 
 
